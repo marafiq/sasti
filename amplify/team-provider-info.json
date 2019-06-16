@@ -1,0 +1,19 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "sasti-prod-20190616033658-authRole",
+            "UnauthRoleArn": "arn:aws:iam::627185265568:role/sasti-prod-20190616033658-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::627185265568:role/sasti-prod-20190616033658-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "sasti-prod-20190616033658-deployment",
+            "UnauthRoleName": "sasti-prod-20190616033658-unauthRole",
+            "StackName": "sasti-prod-20190616033658",
+            "StackId": "arn:aws:cloudformation:us-east-1:627185265568:stack/sasti-prod-20190616033658/8628d880-9009-11e9-9aa4-0a00a1b75a8c"
+        },
+        "categories": {
+            "auth": {
+                "sasti8c2c6f41": {}
+            }
+        }
+    }
+}
